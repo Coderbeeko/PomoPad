@@ -6,9 +6,9 @@
 
 ### How it started 
 
-It all started when I saw a reel on instagram while mindlessly scrolling of course. It someone spreading awareness of HC and Blueprint, and when I saw what it had to offer, I was immediately invested. 
+It all started when I saw a reel on instagram while mindlessly scrolling of course. It was someone spreading awareness of HC and Blueprint, and when I saw what it had to offer, I was immediately invested. 
 
-I had never done a proper electronics project before, just a few simple Arduino projects, but besides that, I had never designed a PCB, used CAD properly, or dealt with firmware before, therefore this project really taught me so much things, especially in a field that I want to purse long-term. My goal is to study Electrical and Electronics Engineering in university, and this project gave me a small, but truly exciting glimpse into that world.
+I had never done a proper electronics project before, just a few simple Arduino projects, but besides that, I had never designed a PCB, used CAD properly, or dealt with firmware before, therefore this project really taught me so much new things, especially in a field that I want to purse long-term. My goal is to study Electrical and Electronics Engineering in university, and this project gave me a small, but truly exciting glimpse into that world.
 
 Eventhough the macropad itself is relatively simple, the process widened my perspective and showed me how much there is to learn.
 
