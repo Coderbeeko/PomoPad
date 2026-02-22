@@ -63,6 +63,20 @@ That said, those challenges made the project memorable and exciting. I still rem
 
 
 
+### Middle Layer
+
+
+<img width="885" height="728" alt="Middle Layer" src="https://github.com/user-attachments/assets/172c0eba-952e-41d0-b3a8-0eaccfe466a0" />
+
+
+
+### Bottom Layer
+
+
+<img width="893" height="704" alt="Bottom Layer" src="https://github.com/user-attachments/assets/97b3a9d3-55b2-41f3-8a50-f6a851ca1c75" />
+
+
+
 
 
 
