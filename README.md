@@ -2,7 +2,9 @@
 3x3 RP2040 macropad with encoder, OLED, and RGB. Built using QMK.
 
 
-<img width="1802" height="1406" alt="image" src="https://github.com/user-attachments/assets/3d31519b-1d86-4869-8757-797be6ccb461" />
+<img width="1866" height="1348" alt="image" src="https://github.com/user-attachments/assets/df2a7c90-2cb4-4ad6-8e8c-dfdd2a631474" />
+
+
 
 ### How it started 
 
@@ -52,28 +54,39 @@ That said, those challenges made the project memorable and exciting. I still rem
 ### Case without the PCB
 
 
-<img width="956" height="732" alt="Overall wo PCB" src="https://github.com/user-attachments/assets/9f41dd99-2170-434c-89e4-eadc4e4a803a" />
+<img width="945" height="699" alt="Screenshot 2026-02-22 at 2 26 40 PM" src="https://github.com/user-attachments/assets/9d2e13b9-372d-4631-859e-846d678781f9" />
 
 
 
 ### Top of the Case and Cover
 
 
-<img width="938" height="369" alt="Top of Case and Cover" src="https://github.com/user-attachments/assets/91e75e58-937f-46be-9850-81aa13d477d9" />
+<img width="1390" height="413" alt="All Bodies" src="https://github.com/user-attachments/assets/8227e08a-3db5-460b-a7e3-8147ae361525" />
+
+
+
+
+### Top Layer
+
+
+<img width="468" height="357" alt="Top" src="https://github.com/user-attachments/assets/d4656e75-6ec8-44da-a7b3-89d47e3a1b74" />
+
 
 
 
 ### Middle Layer
 
 
-<img width="885" height="728" alt="Middle Layer" src="https://github.com/user-attachments/assets/172c0eba-952e-41d0-b3a8-0eaccfe466a0" />
+<img width="402" height="289" alt="Middle" src="https://github.com/user-attachments/assets/a6dc68a9-fd4c-4c7a-8924-2ca2c688b2a1" />
+
 
 
 
 ### Bottom Layer
 
 
-<img width="893" height="704" alt="Bottom Layer" src="https://github.com/user-attachments/assets/97b3a9d3-55b2-41f3-8a50-f6a851ca1c75" />
+<img width="463" height="351" alt="Bottom" src="https://github.com/user-attachments/assets/2378c223-f4d8-4b36-9749-da3d8ae0970d" />
+
 
 
 
