@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Pomopad.step",
+      "step": "../../pomoresources/pcb2.step",
       "svg": "",
       "vrml": ""
     },
