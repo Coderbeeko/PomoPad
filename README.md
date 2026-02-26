@@ -40,14 +40,14 @@ That said, those challenges made the project memorable and exciting. I still rem
 ### Schematic
 
 
-<img width="1136" height="703" alt="Schematic" src="https://github.com/user-attachments/assets/7a672714-83e4-4ff2-8f89-28745202b65b" />
+<img width="1267" height="790" alt="Schematic" src="https://github.com/user-attachments/assets/487ebfb3-1eb8-4b38-92cf-5948b0e68d98" />
 
 
 
 ### PCB
 
 
-<img width="975" height="687" alt="PCB" src="https://github.com/user-attachments/assets/1d02c562-238b-4ae2-af7c-834cca6449dc" />
+<img width="1132" height="782" alt="PCB" src="https://github.com/user-attachments/assets/32434181-d4c1-426c-84f4-6398c51e18d2" />
 
 
 
